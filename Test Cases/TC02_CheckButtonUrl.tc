@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>makesure button correct and not 404</description>
+   <name>TC02_CheckButtonUrl</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de0b31d9-2fad-4472-aa23-c6618d142253</testCaseGuid>
+</TestCaseEntity>

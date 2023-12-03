@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Perjalanan Hidup</name>
+   <tag></tag>
+   <elementGuidId>f1286f59-1f05-4738-8b36-183287d627d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(6) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='wp--skip-link--target']/div[3]/ol[4]/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>38415cfc-3dab-4d8b-8af4-3e7684e44748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://berandalanjenius.com/lirik-perjalanan-hidup/</value>
+      <webElementGuid>014469f1-7386-4858-939f-26f0d0b59220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Perjalanan Hidup</value>
+      <webElementGuid>c898b1ce-c690-43e2-aa19-8f13449f61ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wp--skip-link--target&quot;)/div[@class=&quot;entry-content wp-block-post-content is-layout-constrained wp-block-post-content-is-layout-constrained&quot;]/ol[4]/li[6]/a[1]</value>
+      <webElementGuid>772646fc-4b21-4ca1-90b7-cd51e8a12ebd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='wp--skip-link--target']/div[3]/ol[4]/li[6]/a</value>
+      <webElementGuid>7d5675f9-a44b-44ae-9cb3-3b342b00e617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Perjalanan Hidup')]</value>
+      <webElementGuid>791f370b-8579-4c26-ab95-72aafd871e16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://berandalanjenius.com/lirik-perjalanan-hidup/')]</value>
+      <webElementGuid>722cbe98-1837-409d-8b26-e789a4afba06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>36464d72-c1fb-47dd-9c1a-dca9d79ad0a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://berandalanjenius.com/lirik-perjalanan-hidup/' and (text() = 'Perjalanan Hidup' or . = 'Perjalanan Hidup')]</value>
+      <webElementGuid>83321dfc-1c40-49d0-894f-dce609317b87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

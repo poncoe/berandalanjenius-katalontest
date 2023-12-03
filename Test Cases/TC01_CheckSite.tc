@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check website online or nottt</description>
+   <name>TC01_CheckSite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01a13f26-fc74-47eb-a0a3-68c5e0793778</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>5dfd6ee7-8dfb-414d-bb6f-824015922ed6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Ada Kucing&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Ada Kucing']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6964176b-f01f-44d4-8143-c9efb255bbd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>2c09108c-dc15-4d89-95a6-5b11b12673a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cldup.com/TcaRvqHVR6.jpg</value>
+      <webElementGuid>90bc6ebf-3373-42d7-a568-e44c9caf6d53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Ada Kucing</value>
+      <webElementGuid>a6718fa2-7492-4314-aa22-68a6d774e5d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home blog wp-embed-responsive&quot;]/div[@class=&quot;wp-site-blocks&quot;]/div[@class=&quot;wp-block-columns is-layout-flex wp-container-15 wp-block-columns-is-layout-flex&quot;]/div[@class=&quot;wp-block-column is-layout-flow wp-block-column-is-layout-flow&quot;]/figure[@class=&quot;wp-block-image size-large wp-duotone-unset-11&quot;]/a[1]/img[1]</value>
+      <webElementGuid>3f9db950-ffa8-4466-97ae-bfbad4532af9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Ada Kucing']</value>
+      <webElementGuid>86aeb7ab-c65c-43c4-b687-4ace86165340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/figure/a/img</value>
+      <webElementGuid>51cd52df-6bbc-498e-84aa-459fc273b915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cldup.com/TcaRvqHVR6.jpg' and @alt = 'Ada Kucing']</value>
+      <webElementGuid>8ef62068-99bb-44e5-9807-3d3728fc92d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

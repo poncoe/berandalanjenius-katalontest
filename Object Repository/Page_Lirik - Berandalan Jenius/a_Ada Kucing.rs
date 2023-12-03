@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ada Kucing</name>
+   <tag></tag>
+   <elementGuidId>8dac0793-41c5-43de-8863-57725999778d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ol:nth-of-type(2) > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='wp--skip-link--target']/div[3]/ol[2]/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>edd29cc3-b931-4970-be54-53689a911cc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://berandalanjenius.com/lirik-ada-kucing/</value>
+      <webElementGuid>aed52780-dcac-40c3-b863-7b1c3ec36097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ada Kucing </value>
+      <webElementGuid>32462a55-86c5-4e8d-a8fa-ba6879457656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wp--skip-link--target&quot;)/div[@class=&quot;entry-content wp-block-post-content is-layout-constrained wp-block-post-content-is-layout-constrained&quot;]/ol[2]/li[1]/a[1]</value>
+      <webElementGuid>2432d8e1-c0ac-488a-980e-179613965e85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='wp--skip-link--target']/div[3]/ol[2]/li/a</value>
+      <webElementGuid>53dc92bf-1081-4af8-9574-fedfc0becad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ada Kucing')]</value>
+      <webElementGuid>bf4fe075-21c2-4eca-b422-7c6721e6c54f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://berandalanjenius.com/lirik-ada-kucing/')]</value>
+      <webElementGuid>bfadf217-dec1-4f08-b5ae-425f1b35672f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol[2]/li/a</value>
+      <webElementGuid>9fd6cece-60d0-4706-8a96-97558f17eea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://berandalanjenius.com/lirik-ada-kucing/' and (text() = 'Ada Kucing ' or . = 'Ada Kucing ')]</value>
+      <webElementGuid>c38c8ae4-4772-41f3-ad28-e4d49b6c7449</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

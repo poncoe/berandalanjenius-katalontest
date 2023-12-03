@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>84a192d6-05e2-4184-bb31-4f1e12ddaf24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Kisah Bersama Mu&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Kisah Bersama Mu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ef25c4cd-95fb-4816-bb24-409f450621d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>000dc470-b1c8-41f4-a5aa-aa9e011c71a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cldup.com/BR7VNYDUy3.jpg</value>
+      <webElementGuid>0a67b03b-458b-4fdb-a9e1-a2f811c4d286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Kisah Bersama Mu</value>
+      <webElementGuid>908f105f-8338-443c-b7c1-f9e8230bb2c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home blog wp-embed-responsive&quot;]/div[@class=&quot;wp-site-blocks&quot;]/div[@class=&quot;wp-block-columns is-layout-flex wp-container-15 wp-block-columns-is-layout-flex&quot;]/div[@class=&quot;wp-block-column is-layout-flow wp-block-column-is-layout-flow&quot;]/figure[@class=&quot;wp-block-image size-large wp-duotone-unset-9&quot;]/a[1]/img[1]</value>
+      <webElementGuid>3cfe2c11-609a-48a4-b517-0f394edf49f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Kisah Bersama Mu']</value>
+      <webElementGuid>3cc2f327-b48a-4e7b-9336-7ed6803b71d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/figure/a/img</value>
+      <webElementGuid>f2b9b899-3e12-41f2-a253-da81de3d566c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cldup.com/BR7VNYDUy3.jpg' and @alt = 'Kisah Bersama Mu']</value>
+      <webElementGuid>65b656cc-e32c-4fe5-8d83-d4daf4a82716</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

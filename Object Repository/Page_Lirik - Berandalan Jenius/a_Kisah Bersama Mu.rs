@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kisah Bersama Mu</name>
+   <tag></tag>
+   <elementGuidId>cd47978b-4073-4615-87d9-022e43f29d1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ol > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='wp--skip-link--target']/div[3]/ol/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>944ceac3-904e-4dfe-9214-6314e08866c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://berandalanjenius.com/lirik-kisah-bersama-mu/</value>
+      <webElementGuid>c4cabf73-584f-4ef5-a632-f27513a0fbd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kisah Bersama Mu</value>
+      <webElementGuid>5e721fbb-f83f-4ebd-b7ce-ceab4aab58a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wp--skip-link--target&quot;)/div[@class=&quot;entry-content wp-block-post-content is-layout-constrained wp-block-post-content-is-layout-constrained&quot;]/ol[1]/li[1]/a[1]</value>
+      <webElementGuid>6c4540e2-e22b-443c-9b2f-c751b766e450</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='wp--skip-link--target']/div[3]/ol/li/a</value>
+      <webElementGuid>3f80360b-234e-4039-9258-cf0a604d54fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kisah Bersama Mu')]</value>
+      <webElementGuid>219743ed-1738-4607-ad54-120cd4518adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://berandalanjenius.com/lirik-kisah-bersama-mu/')]</value>
+      <webElementGuid>760bba4a-e929-4838-807f-6682165b69bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li/a</value>
+      <webElementGuid>76d7b63a-c631-4d77-877d-4b6bfb269655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://berandalanjenius.com/lirik-kisah-bersama-mu/' and (text() = 'Kisah Bersama Mu' or . = 'Kisah Bersama Mu')]</value>
+      <webElementGuid>d9b23351-cd1a-4af9-ba45-ec5366fa0c53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

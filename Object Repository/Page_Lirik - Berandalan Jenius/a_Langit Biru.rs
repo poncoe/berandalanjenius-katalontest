@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Langit Biru</name>
+   <tag></tag>
+   <elementGuidId>58c6b30c-3405-4370-a7a2-de40c81044c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(10) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='wp--skip-link--target']/div[3]/ol[4]/li[10]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fd95656a-7860-4962-9e3a-9729f02a604a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://berandalanjenius.com/lirik-langit-biru/</value>
+      <webElementGuid>ecdc8d60-4de1-42cd-86a5-981c71a73223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Langit Biru</value>
+      <webElementGuid>3a5c8dd1-5c04-4858-9916-cca315dc31de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wp--skip-link--target&quot;)/div[@class=&quot;entry-content wp-block-post-content is-layout-constrained wp-block-post-content-is-layout-constrained&quot;]/ol[4]/li[10]/a[1]</value>
+      <webElementGuid>506bc2db-9f95-4c69-9e80-32b7b443ae91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='wp--skip-link--target']/div[3]/ol[4]/li[10]/a</value>
+      <webElementGuid>27e203e7-19ae-435f-b821-3a1339d1fff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Langit Biru')]</value>
+      <webElementGuid>b0124ee1-c40c-4aef-8f6e-1950b277e025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://berandalanjenius.com/lirik-langit-biru/')]</value>
+      <webElementGuid>e21d3460-67f7-48cc-998e-193ea24305fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a</value>
+      <webElementGuid>3781deaf-547d-4ed6-a9e2-89c9b7bf4ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://berandalanjenius.com/lirik-langit-biru/' and (text() = 'Langit Biru' or . = 'Langit Biru')]</value>
+      <webElementGuid>3c21c1f0-89ba-4ebd-9951-d9cafde611c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

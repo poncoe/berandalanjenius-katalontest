@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Next Page</name>
+   <tag></tag>
+   <elementGuidId>8f86301a-f575-4379-a168-9d3bd9343d21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.wp-block-query-pagination-next.has-small-font-size</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='wp--skip-link--target']/div[3]/div/nav/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>29481e90-8c11-47b0-8cc0-6370da199740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/stories/?query-62-page=2</value>
+      <webElementGuid>7b4ab67c-84ca-425c-afa8-fd7efcb2e51d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-query-pagination-next has-small-font-size</value>
+      <webElementGuid>037fb2e9-3f21-4813-b0c3-f10d7c0a4361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next Page→</value>
+      <webElementGuid>4062917e-6cf4-473d-9d37-e70d7151836a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wp--skip-link--target&quot;)/div[@class=&quot;entry-content wp-block-post-content is-layout-constrained wp-block-post-content-is-layout-constrained&quot;]/div[@class=&quot;wp-block-query alignwide is-layout-constrained wp-block-query-is-layout-constrained&quot;]/nav[@class=&quot;alignwide wp-block-query-pagination is-content-justification-space-between is-layout-flex wp-container-9 wp-block-query-pagination-is-layout-flex&quot;]/a[@class=&quot;wp-block-query-pagination-next has-small-font-size&quot;]</value>
+      <webElementGuid>c043e937-a64f-42f2-b9d3-6d6469680673</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='wp--skip-link--target']/div[3]/div/nav/a</value>
+      <webElementGuid>c06fb8d2-dbe0-4a29-b5bb-120f3a9f3a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/stories/?query-62-page=2')]</value>
+      <webElementGuid>4b7fd769-3e89-4f8b-a772-122f4074a134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/a</value>
+      <webElementGuid>851a4908-5568-4862-a6c9-00191de5b455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/stories/?query-62-page=2' and (text() = 'Next Page→' or . = 'Next Page→')]</value>
+      <webElementGuid>e9671227-0b54-43b1-b48b-d3f5bb00d37f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Terbakar Habis</name>
+   <tag></tag>
+   <elementGuidId>9a61d162-332a-4ec1-984e-8b46e452f8ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(14) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='wp--skip-link--target']/div[3]/ol[4]/li[14]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5a2b9dc1-c255-4946-949c-bfd46b4a2433</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://berandalanjenius.com/lirik-terbakar-habis/</value>
+      <webElementGuid>d50cfaea-231c-4fa5-abe3-875b22ec615d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terbakar Habis</value>
+      <webElementGuid>0e4fa1ff-5e8f-4d64-8183-84bdaaedbdb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wp--skip-link--target&quot;)/div[@class=&quot;entry-content wp-block-post-content is-layout-constrained wp-block-post-content-is-layout-constrained&quot;]/ol[4]/li[14]/a[1]</value>
+      <webElementGuid>cde37476-3cc1-4f59-b7a3-5f28b5c394a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='wp--skip-link--target']/div[3]/ol[4]/li[14]/a</value>
+      <webElementGuid>b170710c-7b81-4460-ac8e-b59c88472af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Terbakar Habis')]</value>
+      <webElementGuid>3f3c8b40-1e47-46ce-b672-7a1c1b53b1a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://berandalanjenius.com/lirik-terbakar-habis/')]</value>
+      <webElementGuid>6dd3b234-f435-49db-9852-7a4c2c0ab124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[14]/a</value>
+      <webElementGuid>89b8ce0c-0ef9-4781-8de7-60a22911a001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://berandalanjenius.com/lirik-terbakar-habis/' and (text() = 'Terbakar Habis' or . = 'Terbakar Habis')]</value>
+      <webElementGuid>e41cb763-6ebb-4a3b-b442-1db992287a74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

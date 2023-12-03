@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_MusikDiskografiLirikStreamingSpotifyAppl_881a8b</name>
+   <tag></tag>
+   <elementGuidId>233b8759-e893-4125-95ea-cab4e2b5b6d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-3-content']/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>14a3a090-262d-469b-8eb2-cbc4f2a612aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu</value>
+      <webElementGuid>147b2889-262e-4139-ba92-6b2b37aa2aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MusikDiskografiLirikStreamingSpotifyApple MusicJooxYoutubeSoundcloud</value>
+      <webElementGuid>57572250-998f-46e1-ad1f-1dcc651cd184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-3-content&quot;)/ul[@class=&quot;wp-block-navigation__container has-background is-responsive items-justified-center wp-block-navigation&quot;]/li[@class=&quot;wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu&quot;]</value>
+      <webElementGuid>776e0738-12e4-4b8c-afd0-52c9b6e0e48c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-3-content']/ul/li[2]</value>
+      <webElementGuid>a63f23b3-35cb-4099-ab9e-e78e6013440a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>02835ada-1cc6-41a2-a11a-be7ba472456e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'MusikDiskografiLirikStreamingSpotifyApple MusicJooxYoutubeSoundcloud' or . = 'MusikDiskografiLirikStreamingSpotifyApple MusicJooxYoutubeSoundcloud')]</value>
+      <webElementGuid>b88ff4f3-8ab2-49eb-b3f8-770d39fa9c56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

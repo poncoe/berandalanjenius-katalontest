@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Story So Far</name>
+   <tag></tag>
+   <elementGuidId>5ba16de4-f62c-43b3-8738-6c4652050c7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-3-content']/ul/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>07f324c7-4cee-4987-9176-329b9af3f1d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-navigation-item__label</value>
+      <webElementGuid>57666f34-7667-454c-9b9c-f42103969017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Story So Far</value>
+      <webElementGuid>f620836b-faa3-45ce-8560-93a4a60d297b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-3-content&quot;)/ul[@class=&quot;wp-block-navigation__container has-background is-responsive items-justified-center wp-block-navigation&quot;]/li[@class=&quot;wp-block-navigation-item wp-block-navigation-link&quot;]/a[@class=&quot;wp-block-navigation-item__content&quot;]/span[@class=&quot;wp-block-navigation-item__label&quot;]</value>
+      <webElementGuid>6b28242c-bae6-4a6e-895b-a49b12483ff0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-3-content']/ul/li[3]/a/span</value>
+      <webElementGuid>b9847996-e955-48a5-9f33-ba33cfc16cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>1b22fbbc-1424-4dca-ad4a-2954164abad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Story So Far' or . = 'Story So Far')]</value>
+      <webElementGuid>146d2c17-ec9a-4854-8112-929bbc526406</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>5f9bac27-7f2d-4805-9538-dba34c456735</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Danau Galau - 2022 Remastering&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Danau Galau - 2022 Remastering']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3f8ff683-33a9-4a87-ada4-b8d336b4fcdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>c9c941f6-b53b-4661-af0d-a7cf7554abd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cldup.com/XGZiMn434Y.png</value>
+      <webElementGuid>0bd716ca-6e33-4f2e-8940-91f3b1594a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Danau Galau - 2022 Remastering</value>
+      <webElementGuid>e4ee4dd0-2c3d-4bbe-9552-e302e3c7e477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home blog wp-embed-responsive&quot;]/div[@class=&quot;wp-site-blocks&quot;]/div[@class=&quot;wp-block-columns is-layout-flex wp-container-22 wp-block-columns-is-layout-flex&quot;]/div[@class=&quot;wp-block-column is-layout-flow wp-block-column-is-layout-flow&quot;]/figure[@class=&quot;wp-block-image size-large wp-duotone-unset-18&quot;]/a[1]/img[1]</value>
+      <webElementGuid>217946e7-a360-4d7d-acfd-305d4ab75364</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Danau Galau - 2022 Remastering']</value>
+      <webElementGuid>3bc3b340-b27c-4a56-93b2-aca21063c07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/figure/a/img</value>
+      <webElementGuid>78893062-81f9-4586-9124-f0c3b7c4d4dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cldup.com/XGZiMn434Y.png' and @alt = 'Danau Galau - 2022 Remastering']</value>
+      <webElementGuid>4dc3f2f6-85c2-4d0f-8d2c-a283e6aa04c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

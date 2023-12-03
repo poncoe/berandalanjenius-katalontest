@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2</name>
+   <tag></tag>
+   <elementGuidId>182e2a24-f648-45e3-a04b-64b5b6dfcf06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Danau Galau&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Danau Galau']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b8edfa60-e896-45b8-9974-a2d4df0998aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>d31a3366-a973-4783-b527-10c3aec1079d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cldup.com/mifIxBq7Fk.jpg</value>
+      <webElementGuid>b7f72126-96ce-41ea-bfbb-c48a02f1c828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Danau Galau</value>
+      <webElementGuid>e4875074-eef3-4840-91b5-2a5c53ad4a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home blog wp-embed-responsive&quot;]/div[@class=&quot;wp-site-blocks&quot;]/div[@class=&quot;wp-block-columns is-layout-flex wp-container-15 wp-block-columns-is-layout-flex&quot;]/div[@class=&quot;wp-block-column is-layout-flow wp-block-column-is-layout-flow&quot;]/figure[@class=&quot;wp-block-image size-large wp-duotone-unset-13&quot;]/a[1]/img[1]</value>
+      <webElementGuid>dbe7305c-8096-4238-81f3-a92d6a2b4d29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Danau Galau']</value>
+      <webElementGuid>af7aeeb3-2ef4-4337-98a5-4e4a870d90a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/figure/a/img</value>
+      <webElementGuid>a1e7dcbb-cb67-4430-9ad7-ead640955989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cldup.com/mifIxBq7Fk.jpg' and @alt = 'Danau Galau']</value>
+      <webElementGuid>c7aa9ddf-9503-442c-916f-77467aafb3de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
